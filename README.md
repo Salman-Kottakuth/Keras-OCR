@@ -5,9 +5,9 @@
 ## خطوات(Steps)
 **1. قم بتثبيت  OpenCV**  
 (Install OpenCV)
-    ```
-    pip install opencv-python
-    ```
+```
+pip install opencv-python
+```
 
 **2. تثبيت Keras-OCR**  
 (Install Keras-OCR)
