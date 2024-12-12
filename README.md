@@ -3,7 +3,7 @@
 (This reference will teach you how to use Keras-OCR for extracting texts from an image)<br><br>
 
 ## خطوات(Steps)
-**1. ثَبَّتَ OpenCV (Install OpenCV)  
+**1. ثَبَّتَ OpenCV (Install OpenCV)**  
 
 ```
 pip install opencv-python
