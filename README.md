@@ -14,8 +14,7 @@ pip install opencv-python
 ```
 pip install keras-ocr
 ```
-**3. قم بتشغيل الكود أدناه**
-
+**3. قم بتشغيل الكود أدناه**  
 (Run The Below Code)
 ```
 import keras_ocr
