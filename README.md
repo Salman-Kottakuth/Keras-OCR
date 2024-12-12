@@ -5,7 +5,9 @@
 خطوات<br>
 (Steps)
 </h2><br>
+
 ## Install OpenCV
+
 ```
 pip install opencv-python
 ```
