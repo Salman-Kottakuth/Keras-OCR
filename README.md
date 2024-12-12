@@ -17,7 +17,6 @@ pip install keras-ocr
 **3. قم بتشغيل الكود أدناه**
 
 (Run The Below Code)
-
 ```
 import keras_ocr
 import matplotlib.pyplot as plt
