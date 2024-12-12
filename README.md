@@ -6,7 +6,7 @@
 (Steps)
 </h2><br>
 
-## Install OpenCV
+** 1. Install OpenCV **
 
 ```
 pip install opencv-python
