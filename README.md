@@ -25,7 +25,7 @@ import cv2
 pipeline = keras_ocr.pipeline.Pipeline()
 
 # Step 2: Load the image (replace with your document image path)
-image_path = '/notebooks/Salman id Back.jpeg'
+image_path = 'img.jpeg'
 image = keras_ocr.tools.read(image_path)  # Load image
 
 # Step 3: Perform OCR on the image
