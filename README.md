@@ -62,3 +62,5 @@ plt.axis('off')  # Turn off axis
 plt.title("Detected Text and Bounding Boxes")
 plt.show()
 ```
+استبدل image_path قبل تشغيل الكود
+(Replace the image path before running the code)
