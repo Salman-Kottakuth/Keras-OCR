@@ -9,3 +9,8 @@
 pip install opencv-python
 ```
 
+**2. تثبيت Keras-OCR**
+(Install Keras-OCR)
+```
+pip install keras-ocr
+```
