@@ -2,11 +2,10 @@
 سيعلمك هذا المرجع كيفية استخدام Keras-OCR لاستخراج النصوص من المستند <br>
 (This reference will teach you how to use Keras-OCR for extracting texts from an image)<br><br>
 
-  
-**خطوات**<br>
-**(Steps)**
+## خطوات
+## (Steps)
 
-1. Install OpenCV
+**1. Install OpenCV** 
 
 ```
 pip install opencv-python
